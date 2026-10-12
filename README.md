@@ -1,13 +1,10 @@
-
+﻿<!-- ========================================================= -->
+<!--          ABHIJEET TIWARI | SOFTWARE DEVELOPMENT PORTFOLIO -->
 <!-- ========================================================= -->
-<!--          ABHIJEET TIWARI | DEVELOPER PORTFOLIO            -->
-<!-- ========================================================= -->
-
-<!-- ======================== HEADER ========================= -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:080B1A,45:101D40,100:0077B6&height=240&section=header&text=ABHIJEET%20TIWARI&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=ASPIRING%20SOFTWARE%20ENGINEER&descAlignY=60&descSize=17"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:080B1A,45:101D40,100:0077B6&height=240&section=header&text=ABHIJEET%20TIWARI&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=SOFTWARE%20DEVELOPER%20IN%20PROGRESS&descAlignY=60&descSize=17"
     width="100%"
     alt="Abhijeet Tiwari Developer Banner"
   />
@@ -15,7 +12,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=C+%7C+C%2B%2B+%7C+Python+%7C+Java;HTML+%7C+CSS+%7C+JavaScript;Exploring+Web+Development;Learning+Data+Structures+%26+Algorithms;Building+My+Future+in+Software+Engineering"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=C%2FC%2B%2B%20%7C%20Python%20%7C%20Java;HTML%20%7C%20CSS%20%7C%20JavaScript;Problem%20Solver%20%26%20Learner;Building%20Practical%20Projects;Improving%20DSA%20%26%20Web%20Skills"
     alt="Developer Typing Animation"
   />
 </p>
@@ -33,34 +30,26 @@
   <a href="https://github.com/codewithaviiee08">
     <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
-  <img src="https://img.shields.io/badge/Software%20Engineering-Learning-0077B6?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Software Engineering"/>
-  <img src="https://img.shields.io/badge/Full%20Stack-Aspiring-6C63FF?style=for-the-badge&logo=codeforces&logoColor=white" alt="Aspiring Full Stack Developer"/>
+  <img src="https://img.shields.io/badge/Developer-Learning-0077B6?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Developer Learning"/>
+  <img src="https://img.shields.io/badge/Problem%20Solver-Enabled-6C63FF?style=for-the-badge&logo=codeforces&logoColor=white" alt="Problem Solver"/>
 </p>
 
 ---
 
-<!-- ======================== ABOUT ME ======================= -->
-
 ## 👋 About Me
 
-Hi, I'm **Abhijeet Tiwari**.
+Hello! I'm <b>Abhijeet Tiwari</b>, a passionate learner and aspiring software developer focused on building a strong foundation in computer science, programming, and web technologies.
 
-💻 Aspiring Software Engineer | 🧑‍💻 Programmer | 🚀 Future Full Stack Developer
+I enjoy solving problems, writing clean code, and turning ideas into practical projects. My current focus is on strengthening my fundamentals in <b>C, C++, Python, and Java</b>, while also learning modern frontend development with <b>HTML, CSS, and JavaScript</b>.
 
-> "Learn continuously. Code purposefully. Build consistently."
+I am driven by curiosity and consistency. I believe that disciplined learning, regular practice, and hands-on projects are the key to becoming a capable software engineer.
 
-I am passionate about programming, software development, problem-solving, and exploring modern technologies.
-
-Currently, I am strengthening my programming fundamentals in **C, C++, Python, and Java**, while exploring web development with **HTML, CSS, and JavaScript**.
-
-My goal is to become a professional Software Engineer by building practical projects, improving my coding skills, and learning technologies used to develop real-world applications.
-
-- 💻 Interested in software development and programming.
-- 🌐 Learning frontend and web development fundamentals.
-- 🧠 Improving logical thinking and problem-solving.
-- 🛠️ Practicing Git, GitHub, and development tools.
-- 📚 Exploring Data Structures and Algorithms.
-- 🎯 Working toward a career in Full Stack Development.
+- 💻 Exploring programming and software development
+- 🌐 Learning frontend and web technologies
+- 🧠 Strengthening problem-solving and logical thinking
+- 🛠️ Practicing Git, GitHub, and developer workflows
+- 📚 Building skills in Data Structures and Algorithms
+- 🎯 Working toward a professional career in software engineering
 
 <p align="center">
   <a href="https://github.com/codewithaviiee08?tab=repositories">
@@ -70,9 +59,7 @@ My goal is to become a professional Software Engineer by building practical proj
 
 ---
 
-<!-- ====================== DEVELOPER ROADMAP ================= -->
-
-## 🧭 My Developer Roadmap
+## 🧭 Development Roadmap
 
 <p align="center">
   <img src="https://img.shields.io/badge/01-Programming%20Fundamentals-0077B6?style=for-the-badge" alt="Programming Fundamentals"/>
@@ -80,7 +67,7 @@ My goal is to become a professional Software Engineer by building practical proj
   <img src="https://img.shields.io/badge/02-C%20%26%20C%2B%2B-00599C?style=for-the-badge" alt="C and C++"/>
   <img src="https://img.shields.io/badge/03-Python%20%26%20Java-6C63FF?style=for-the-badge" alt="Python and Java"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/04-HTML%20%7C%20CSS%20%7C%20JS-E34F26?style=for-the-badge" alt="Web Fundamentals"/>
+  <img src="https://img.shields.io/badge/04-HTML%20%7C%20CSS%20%7C%20JavaScript-E34F26?style=for-the-badge" alt="Web Fundamentals"/>
   <br/><br/>
   <img src="https://img.shields.io/badge/05-Data%20Structures%20%26%20Algorithms-0077B6?style=for-the-badge" alt="Data Structures and Algorithms"/>
   <br/><br/>
@@ -93,11 +80,9 @@ My goal is to become a professional Software Engineer by building practical proj
 
 ---
 
-<!-- ======================= TECHNICAL SKILLS ================= -->
-
 ## 💻 Technical Skills
 
-### 🧑‍💻 Programming Languages
+### Programming Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java&theme=dark" alt="C, C++, Python and Java"/>
@@ -110,7 +95,7 @@ My goal is to become a professional Software Engineer by building practical proj
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
 </p>
 
-### 🌐 Web Development
+### Web Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS and JavaScript"/>
@@ -122,7 +107,7 @@ My goal is to become a professional Software Engineer by building practical proj
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and VS Code"/>
@@ -136,53 +121,45 @@ My goal is to become a professional Software Engineer by building practical proj
 
 ---
 
-<!-- ================= CURRENT LEARNING PROGRESS ============== -->
+## 🚀 Current Focus
 
-## 🚀 Current Learning Progress
-
-| Technology | Current Focus |
+| Area | Status |
 |:---|:---|
-| C Programming | 🟢 Practicing fundamentals |
+| C Programming | 🟢 Strong fundamentals |
 | C++ | 🟢 Learning core concepts |
 | Python | 🟡 Improving skills |
-| Java | 🟡 Learning fundamentals |
-| HTML & CSS | 🟢 Practicing |
-| JavaScript | 🟡 Learning |
-| Git & GitHub | 🟢 Practicing |
-| Data Structures & Algorithms | 🔵 Upcoming |
-| Frontend Development | 🔵 Learning |
-| Backend Development | 🎯 Future Goal |
-| Full Stack Development | 🚀 Long-Term Goal |
-
-*Progress indicators represent my current self-assessment and will be updated as I learn.*
+| Java | 🟡 Building foundation |
+| HTML & CSS | 🟢 Practicing regularly |
+| JavaScript | 🟡 Learning fundamentals |
+| Git & GitHub | 🟢 Regularly using |
+| Data Structures & Algorithms | 🔵 Active learning |
+| Frontend Development | 🔵 In progress |
+| Backend Development | 🎯 Planned next step |
+| Full Stack Development | 🚀 Long-term goal |
 
 ---
-
-<!-- ======================= CAREER GOALS ===================== -->
 
 ## 🎯 Career Goals
 
 ### Short-Term Goals
 
-- [ ] Strengthen C and C++ fundamentals.
-- [ ] Improve Python and Java programming.
-- [ ] Learn Data Structures and Algorithms.
-- [ ] Build useful programming projects.
-- [ ] Develop responsive websites.
-- [ ] Practice Git and GitHub workflows.
-- [ ] Create a professional developer portfolio.
+- [ ] Strengthen core programming fundamentals in C and C++
+- [ ] Improve logical thinking and problem-solving skills
+- [ ] Learn and practice Data Structures & Algorithms
+- [ ] Build practical coding projects and mini applications
+- [ ] Develop responsive and user-friendly web interfaces
+- [ ] Practice Git and GitHub workflows effectively
+- [ ] Create a professional portfolio with polished projects
 
 ### Long-Term Goals
 
-- [ ] Become proficient in software development.
-- [ ] Learn frontend and backend technologies.
-- [ ] Build and deploy full stack applications.
-- [ ] Develop practical solutions to real-world problems.
-- [ ] Grow into a professional Software Engineer.
+- [ ] Become proficient in software development and engineering practices
+- [ ] Learn full-stack development tools and frameworks
+- [ ] Build and deploy real-world applications
+- [ ] Solve meaningful problems through technology
+- [ ] Grow into a professional software engineer
 
 ---
-
-<!-- ======================= CORE STRENGTHS =================== -->
 
 ## 🏆 Core Strengths
 
@@ -193,28 +170,22 @@ My goal is to become a professional Software Engineer by building practical proj
   <img src="https://img.shields.io/badge/Adaptability-6C63FF?style=for-the-badge" alt="Adaptability"/>
 </p>
 
-- 🧠 Logical and analytical thinking.
-- 🧩 Problem-solving mindset.
-- 💻 Passion for programming.
-- 📚 Continuous learning.
-- 🎯 Attention to detail.
-- 🤝 Teamwork and collaboration.
-- 🔄 Adaptability and consistency.
-- 🛠️ Interest in practical applications.
+- 🧠 Strong analytical and logical thinking
+- 🧩 Consistent problem-solving mindset
+- 💻 Passion for programming and software design
+- 📚 Commitment to continuous learning
+- 🎯 Attention to detail and quality
+- 🤝 Willingness to collaborate and learn from others
+- 🔄 Adaptability across technologies and tasks
+- 🛠️ Focus on practical, real-world implementation
 
 ---
 
-<!-- =========== EDUCATION & PROFESSIONAL TRAINING ============ -->
-
-## 🎓 Education & Professional Training
+## 🎓 Education & Training
 
 <p align="center">
   <img src="https://img.shields.io/badge/ACADEMIC%20EDUCATION-0077B6?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="Academic Education"/>
   <img src="https://img.shields.io/badge/TECHNICAL%20TRAINING-6C63FF?style=for-the-badge&logo=bookstack&logoColor=white" alt="Technical Training"/>
-</p>
-
-<p align="center">
-  <i>Building a strong foundation through academic learning and technical training.</i>
 </p>
 
 <table>
@@ -223,7 +194,7 @@ My goal is to become a professional Software Engineer by building practical proj
       <img src="https://img.shields.io/badge/01-ACADEMIC-0077B6?style=flat-square" alt="Academic Education"/>
       <h3>🎓 Diploma in Mechanical Engineering</h3>
       <p><strong>Suyash Institute of Information Technology</strong></p>
-      <p>Academic education and engineering fundamentals.</p>
+      <p>Academic foundation in engineering and technical problem-solving.</p>
       <a href="https://share.google/hXMIvRDPCm8XqBffX">
         <img src="https://img.shields.io/badge/VIEW%20INSTITUTE-0077B6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="View Suyash Institute"/>
       </a>
@@ -233,7 +204,7 @@ My goal is to become a professional Software Engineer by building practical proj
       <h3>💻 Diploma in Software Programming</h3>
       <p><strong>Disha Computer Institute</strong></p>
       <p>📍 Koparkhairane</p>
-      <p>Advanced Diploma in Software Programming.</p>
+      <p>Focused training in software programming and practical computing.</p>
       <a href="https://share.google/wsIhhYWfkmuQ1sdxD">
         <img src="https://img.shields.io/badge/VIEW%20INSTITUTE-6C63FF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="View Disha Computer Institute"/>
       </a>
@@ -244,7 +215,7 @@ My goal is to become a professional Software Engineer by building practical proj
       <img src="https://img.shields.io/badge/03-CAD%20TRAINING-0077B6?style=flat-square" alt="CAD Training"/>
       <h3>📐 AutoCAD 2D &amp; 3D Training</h3>
       <p><strong>CAD GENIUS Computer Training Center</strong></p>
-      <p>Technical drawing and computer-aided design training.</p>
+      <p>Hands-on learning in technical drafting and design tools.</p>
       <a href="https://share.google/ttNxlGA2jYB4N3ZCJ">
         <img src="https://img.shields.io/badge/VIEW%20TRAINING%20CENTER-0077B6?style=for-the-badge&logo=autodesk&logoColor=white" alt="View CAD GENIUS Training Center"/>
       </a>
@@ -254,44 +225,41 @@ My goal is to become a professional Software Engineer by building practical proj
 
 ---
 
-<!-- ===================== CURRENT LEARNING =================== -->
+## 📚 Current Learning Journey
 
-## 📚 Currently Learning
-
-- Programming fundamentals and object-oriented concepts.
-- Web development with HTML, CSS and JavaScript.
-- Software development practices and Git workflows.
-- Practical coding exercises and personal projects.
-- Data Structures and Algorithms fundamentals.
+- Programming fundamentals and object-oriented concepts
+- Web development with HTML, CSS, and JavaScript
+- Software engineering best practices and Git workflows
+- Building practical mini-projects and personal assignments
+- Data Structures and Algorithms fundamentals
+- Improving problem-solving speed and code quality
 
 ---
 
-<!-- ===================== FEATURED PROJECTS ================= -->
-
 ## 📂 Projects & Portfolio
 
-🚧 I am building my portfolio through programming practice and practical development projects.
+I am actively building my portfolio by working on practical projects, coding exercises, and hands-on learning experiences.
 
-### 💻 Programming Projects
+### Programming Projects
 
-- C Programming Practice
-- C++ Fundamentals
-- Python Practice Projects
-- Java Programs
+- C programming exercises and logic-based programs
+- C++ fundamentals and algorithm practice
+- Python mini-projects and automation tasks
+- Java beginner programs and core concept practice
 
-### 🌐 Web Development Projects
+### Web Development Projects
 
-- Personal Portfolio Website
-- Responsive Web Pages
-- HTML & CSS Projects
-- JavaScript Applications
+- Personal portfolio website
+- Responsive landing pages and UI designs
+- HTML/CSS projects and component-based work
+- JavaScript-based interactive applications
 
-### 🚀 Future Projects
+### Future Projects
 
-- Python Automation Tools
-- Interactive Web Applications
-- Data Structures & Algorithms Practice
-- Full Stack Web Applications
+- Python automation tools
+- Data structures and algorithm practice sets
+- Interactive web applications
+- Full-stack application development
 
 <p align="center">
   <a href="https://github.com/codewithaviiee08?tab=repositories">
@@ -300,8 +268,6 @@ My goal is to become a professional Software Engineer by building practical proj
 </p>
 
 ---
-
-<!-- ===================== GITHUB STATISTICS ================== -->
 
 ## 📊 GitHub Statistics
 
@@ -326,8 +292,6 @@ My goal is to become a professional Software Engineer by building practical proj
 </p>
 
 ---
-
-<!-- ====================== CONNECT WITH ME =================== -->
 
 ## 🌐 Connect With Me
 
@@ -357,22 +321,20 @@ My goal is to become a professional Software Engineer by building practical proj
 
 ---
 
-<!-- ===================== MY PHILOSOPHY ====================== -->
-
 ## 💡 My Philosophy
 
 <p align="center">
-  <b>💻 Code with Purpose</b>
+  <b>💻 Build with Purpose</b>
   &nbsp; | &nbsp;
-  <b>🧠 Think Logically</b>
+  <b>🧠 Think Critically</b>
   &nbsp; | &nbsp;
-  <b>🚀 Build with Consistency</b>
+  <b>🚀 Grow with Consistency</b>
 </p>
 
 <p align="center">
   <i>
-    Every line of code is an opportunity to learn.<br/>
-    Every project is a step toward a better future.
+    Every project is a chance to learn.<br/>
+    Every line of code is a step toward a stronger future.
   </i>
 </p>
 
