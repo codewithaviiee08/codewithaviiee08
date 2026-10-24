@@ -1,13 +1,15 @@
 <!-- ========================================================= -->
 <!--          ABHIJEET TIWARI | SOFTWARE DEVELOPMENT PORTFOLIO -->
 <!-- ========================================================= -->
+
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:080B1A,45:101D40,100:0077B6&height=240&section=header&text=ABHIJEET%20TIWARI&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=SOFTWARE%20DEVELOPER%20IN%20PROGRESS&descAlignY=60&descSize=17"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1C1C1C,100:404040&height=240&section=header&text=ABHIJEET%20TIWARI&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=SOFTWARE%20DEVELOPER%20IN%20PROGRESS&descAlignY=60&descSize=17&descColor=E5E5E5"
     width="100%"
-    alt="Abhijeet Tiwari Developer Banner"
+    alt="Abhijeet Tiwari - Black and White Developer Banner"
   />
 </p>
+
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=C%2FC%2B%2B%20%7C%20Python%20%7C%20Java;HTML%20%7C%20CSS%20%7C%20JavaScript;Problem%20Solver%20%26%20Learner;Building%20Practical%20Projects;Improving%20DSA%20%26%20Web%20Skills"
