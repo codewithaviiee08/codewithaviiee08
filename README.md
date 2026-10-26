@@ -42,9 +42,25 @@
 
 ## 👋 About Me
 
-Hello! I'm **Abhijeet Tiwari**, an aspiring software developer building a strong foundation in programming, computer science, and web technologies.
+# Abhijeet Tiwari
+### Mechanical Engineer | Aspiring Software Developer
 
-I enjoy solving problems, writing readable code, and turning ideas into practical projects. I’m currently strengthening my programming fundamentals while developing my skills in frontend development and software engineering workflows.
+I’m **Abhijeet Tiwari**, a Mechanical Engineering professional transitioning into the world of Software Development with a strong passion for technology, innovation, and continuous growth.
+
+My journey reflects my willingness to step beyond my comfort zone, embrace new challenges, and build expertise in a completely new domain. I’m actively developing my skills in programming, computer science fundamentals, web technologies, and software engineering, with a focus on turning knowledge into practical, real-world solutions.
+
+I believe that **growth begins when you dare to learn beyond what you already know.** With an engineering mindset, a problem-solving approach, and a commitment to continuous improvement, I aim to bridge the gap between my existing technical foundation and the evolving world of software.
+
+### My Focus
+- **Software Development:** Building a strong foundation in programming and software engineering.
+- **Web Technologies:** Creating modern, responsive, and user-focused web experiences.
+- **Problem Solving:** Strengthening logical thinking and writing clean, maintainable code.
+- **Continuous Learning:** Exploring new technologies and applying them through hands-on projects.
+
+### My Vision
+To evolve into a skilled software developer, contribute to meaningful projects, and create technology-driven solutions that make a real difference.
+
+*Engineering taught me how to solve problems. Software development gives me a new way to turn those solutions into reality.*
 
 - 💻 Exploring programming and software development
 - 🌐 Practicing HTML, CSS, and JavaScript
