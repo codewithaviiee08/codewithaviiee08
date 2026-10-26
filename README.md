@@ -331,13 +331,14 @@ I’m building my portfolio through coding exercises, practical mini-projects, a
 
   <br/>
 
+  <!-- PREMIUM NAVY + CYAN FOOTER WAVE -->
   <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,45:111827,100:123A52&height=140&section=footer"
-    width="100%"
-    alt="Premium dark navy and cyan developer footer"
-  />
-</p>
+    <img
+      src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,35:0B1F3A,70:075985,100:06B6D4&height=150&section=footer&reversal=true"
+      width="100%"
+      alt="Premium navy blue and cyan developer footer wave"
+    />
+  </p>
 
   <p><strong>SOFTWARE DEVELOPMENT · PROGRAMMING · CONTINUOUS LEARNING</strong></p>
   <p>© Abhijeet Tiwari · <a href="https://github.com/codewithaviiee08">codewithaviiee08</a></p>
